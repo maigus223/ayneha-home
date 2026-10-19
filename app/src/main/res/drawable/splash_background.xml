@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-or-later
+     Copyright (C) 2026 MAIGUS -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/splash_bg"/>
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/ic_splash_logo"/>
+    </item>
+</layer-list>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-or-later
+     Copyright (C) 2026 MAIGUS -->
+<resources>
+    <string name="app_name">AYNEHA Home</string>
+    <string name="offline_message">Pas de connexion internet</string>
+    <string name="connection_restored">Connexion rétablie - mise à jour…</string>
+    <string name="loading">Chargement…</string>
+    <string name="update_failed">Mise à jour impossible - connexion insuffisante</string>
+    <string name="image_enregistree">Image enregistrée dans Pictures/AYNEHA</string>
+    <string name="partager_image">Partager l\'image</string>
+    <string name="info_button_desc">Confidentialité</string>
+    <string name="privacy_title">Confidentialité</string>
+    <string name="privacy_version_format">Version %1$s - Dernière mise à jour : %2$s</string>
+    <string name="privacy_last_update">17 octobre 2026</string>
+    <string name="privacy_body">AYNEHA Home ne collecte, ne stocke et ne transmet aucune donnée personnelle vous concernant.\n\nAucun compte, aucune publicité, aucun traceur, aucune bibliothèque d\'analyse tierce.\n\nL\'application contient une copie complète du site AYNEHA et fonctionne sans connexion internet. Les textes que vous saisissez (transcripteur, clavier d\'essai, convertisseur, carte) restent dans l\'application sur votre appareil : ils ne sont ni enregistrés ailleurs, ni envoyés.\n\nImages : quand vous enregistrez une image (texte en AYNEHA, carte), elle est rangée dans vos images, dossier Pictures/AYNEHA. Quand vous la partagez, c\'est vous qui choisissez l\'application qui la reçoit.\n\nFichiers à télécharger : les affiches et cahiers PDF, la police et les applications ne sont pas copiés dans l\'application ; ils s\'ouvrent dans votre navigateur, qui les télécharge depuis le site.\n\nMises à jour : quand une connexion est disponible, l\'application télécharge uniquement les fichiers publics du site (ayneha-songhay.github.io) pour rester à jour. Aucune information personnelle n\'est envoyée. Comme pour toute connexion internet, le serveur d\'hébergement (GitHub Pages) voit l\'adresse IP de votre appareil. Si la mise à jour échoue, la dernière copie valide est conservée.\n\nLiens externes : un lien vers un autre site, WhatsApp, ou un e-mail s\'ouvre dans l\'application correspondante de votre téléphone, qui a sa propre politique de confidentialité.\n\nLogiciel libre : AYNEHA Home est un logiciel libre, développé par MAIGUS avec l\'aide d\'outils d\'IA (Claude, Anthropic). Il est publié sous licence GPL v3 ou ultérieure : vous pouvez l\'utiliser, l\'étudier, le modifier et le partager. Toute version modifiée distribuée doit rester libre, sous la même licence. Police : SIL Open Font License 1.1. Code source : github.com/maigus223/ayneha-home\n\nDéveloppé par MAIGUS : gwokmt2q@duck.com</string>
+</resources>

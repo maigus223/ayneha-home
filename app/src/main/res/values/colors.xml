@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-or-later
+     Copyright (C) 2026 MAIGUS -->
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ayneha_bg">#0B1220</color>
+    <color name="ayneha_primary">#F5C518</color>
+    <color name="ayneha_primary_dark">#D4A017</color>
+    <color name="splash_bg">#0B1220</color>
+    <color name="ayneha_text">#FFEDE6D3</color>
+    <color name="ayneha_text_dim">#FFB8B09C</color>
+</resources>

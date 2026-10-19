@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-or-later
+     Copyright (C) 2026 MAIGUS -->
+<resources>
+    <style name="Theme.AYNEHA" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/ayneha_primary</item>
+        <item name="colorPrimaryVariant">@color/ayneha_primary_dark</item>
+        <item name="colorOnPrimary">@color/ayneha_bg</item>
+        <item name="android:statusBarColor">@color/ayneha_bg</item>
+        <item name="android:navigationBarColor">@color/ayneha_bg</item>
+        <item name="android:windowBackground">@color/ayneha_bg</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <!-- Splash screen theme -->
+    <style name="Theme.AYNEHA.Splash" parent="Theme.AYNEHA">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">false</item>
+    </style>
+</resources>
